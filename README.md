@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello! Im Sebastian Garcia 👋
 
+Based in Southern Californin, hoping to pursue a carer as a Software Engineer and work with a diverse and passionate team. 
+
+Currently im a fourth year studying Computer Science at UC Riverside.
 <!--
 **seabass04/seabass04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
