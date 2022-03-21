@@ -1,14 +1,16 @@
 ### Hello! Im Sebastian Garcia 👋
 
-Based in Southern Californin, hoping to pursue a carer as a Software Engineer and work with a diverse and passionate team. 
+Based in Southern Californin, hoping to pursue a carer as a Software Engineer and work with a diverse and passionate team. <br/>
 
-Currently im a fourth year studying Computer Science at UC Riverside.
+ Fourth year and pursuing a BS. in  Computer Science at UC Riverside.
 
-Things im currently persuing:
+Curr:
 - SWE Intern for Engineers for Good 
-- Driver Interface Lead for UCR Solar Car
-- Frontend Engineer \& Undergraduate Research Assistant for Haghverdi Water Management Group @ UCR
 - Peer Mentor
+
+Prev:
+- Driver Interface Lead for UCR Solar Car
+- Fullstack Engineer \& Undergraduate Research Assistant for Haghverdi Water Management Group @ UCR
 
 <img src="/cat.gif" width="400" height="400" />
 <!--
