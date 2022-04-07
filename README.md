@@ -8,12 +8,12 @@ Upcom:
 - SWE @ Qualtrics
 
 Curr:
-- SWE Intern for Engineers for Good 
+- SWE Intern @ Engineers for Good 
 - Peer Mentor
 
 Prev:
-- Driver Interface Lead for UCR Solar Car
-- Fullstack Engineer \& Undergraduate Research Assistant for Haghverdi Water Management Group @ UCR
+- Driver Interface Lead @ UCR Solar Car
+- Fullstack Engineer \& Undergraduate Research Assistant @ Haghverdi Water Management Group, UCR
 
 <img src="/cat.gif" width="400" height="400" />
 <!--
