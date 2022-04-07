@@ -4,6 +4,9 @@ Based in Southern Californin, hoping to pursue a carer as a Software Engineer an
 
  Fourth year and pursuing a BS. in  Computer Science at UC Riverside.
 
+Upcom:
+- SWE @ Qualtrics
+
 Curr:
 - SWE Intern for Engineers for Good 
 - Peer Mentor
